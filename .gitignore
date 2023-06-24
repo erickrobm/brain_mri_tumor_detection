@@ -12,7 +12,8 @@ __pycache__/
 #models/*.txt
 
 # Images (.png)
-*.tif
+
+.tif
 
 # Folders
 kaggle3_m/
